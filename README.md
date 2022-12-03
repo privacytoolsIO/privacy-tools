@@ -22,6 +22,8 @@ This new GitHub page for PrivacyTools.io will serve now as a community hub where
 - https://medium.com/@privacy-tools
 - https://dev.to/privacytools
 - https://discord.gg/Drr9XbKW9k
+- https://www.youtube.com/@privacy-tools
+- https://vk.com/privacy.tools
 - https://www.pinterest.com/privacytoolsIO/
 
 # Why is PrivacyTools.io on platforms like Facebook?
