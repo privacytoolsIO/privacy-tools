@@ -31,7 +31,8 @@ For the simple reason that our target audience, privacy unaware people, are usin
 # Open-Source Privacy Tools
 Software and apps listed on [PrivacyTools.io](https://www.privacytools.io/) are all open-source unless marked otherwise. Read more about our [criteria here](https://www.privacytools.io/#criteria).
 
-# Privacy Tools Website
+# Privacy Website
+A list of our most popular content on our privacy website:
 
 - [Best Privacy VPN](https://www.privacytools.io/privacy-vpn)
 - [Best Privacy Web Browser](https://www.privacytools.io/private-browser)
