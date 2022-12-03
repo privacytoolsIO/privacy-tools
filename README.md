@@ -6,7 +6,6 @@ This new GitHub page for PrivacyTools.io will serve now as a community hub where
 
 ## PrivacyTools.io Community Hub
 
-- Hub: https://github.com/privacytoolsIO/privacytools.io
 - Privacy Forum: https://forum.awesomealternatives.org/t/privacy-tools
 - Telegram: https://t.me/privacytools_2015
 - Newsletter: https://www.getrevue.co/profile/privacytools
