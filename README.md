@@ -48,6 +48,10 @@ A list of our most popular content on our privacy website:
 - [Best Safari Privacy Browser Extensions](https://www.privacytools.io/safari-privacy-extensions/)
 - [Best Firefox Privacy Browser Extensions](https://www.privacytools.io/firefox-privacy-extensions/)
 
+# Mirrors
+- https://gitlab.com/privacytoolsIO/privacy-tools
+- https://codeberg.org/Privacy-Tools/privacy-guides
+
 ## License
 [WTFPL Public Lincense](https://www.privacytools.io/WTFPLV2.txt) - Version 2, December 2004
 
