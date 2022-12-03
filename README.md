@@ -9,23 +9,25 @@ This new GitHub page for PrivacyTools.io will serve now as a community hub where
 ## PrivacyTools.io Community Hub
 
 - Privacy Forum: https://forum.awesomealternatives.org/t/privacy-tools
-- Privacy Blog: https://www.privacytools.io/guides/ ([RSS](https://www.privacytools.io/guides/rss.xml))
 - GitHub Discussion: https://github.com/privacytoolsIO/privacy-tools/discussions
+- Privacy Blog: https://www.privacytools.io/guides/ ([RSS](https://www.privacytools.io/guides/rss.xml))
+- Privacy News Alerts: https://www.getrevue.co/profile/privacytools
+
 - Telegram: https://t.me/privacytools_2015
-- Mastodon: https://fosstodon.org/@privacytools
-- Newsletter: https://www.getrevue.co/profile/privacytools
+- Discord: https://discord.gg/Drr9XbKW9k
+- WhatsApp: https://chat.whatsapp.com/ElAbQPp3AHSKFdOAFu1DUa
+
+- Twitter: https://twitter.com/privacytoolsIO
 - reddit: https://www.reddit.com/r/PrivacySoftware/
+- Mastodon: https://fosstodon.org/@privacytools
 - Facebook: https://www.facebook.com/privacytools.io.2015
 - Instagram: https://www.instagram.com/privacytools_io/
-- Twitter: https://twitter.com/privacytoolsIO
 - Minds: https://www.minds.com/privacytools_io/
-- Medium: https://medium.com/@privacy-tools
 - DEV: https://dev.to/privacytools
-- Discord: https://discord.gg/Drr9XbKW9k
+- Medium: https://medium.com/@privacy-tools
 - YouTube: https://www.youtube.com/@privacy-tools
 - VK: https://vk.com/privacy.tools
 - Pinterest: https://www.pinterest.com/privacytoolsIO/
-- WhatsApp: https://chat.whatsapp.com/ElAbQPp3AHSKFdOAFu1DUa
 
 # Why is PrivacyTools.io on platforms like Facebook?
 
