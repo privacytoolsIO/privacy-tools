@@ -1,4 +1,6 @@
-# Privacy Tools Guide: Encrypted Software & Apps - Open-Source
+![](https://www.privacytools.io/img/logo.svg)
+
+# Privacy Tools Guide: Encrypted Software & Apps
 
 Sadly, our old and popular GitHub repository was hijacked for malicious reasons together with our subreddit by the PrivacyGuides team. The full background story to summarize the incidents and behavior: https://www.privacytools.io/guides/jonah-aragon-privacyguides-failed-attempt-to-takeover
 
