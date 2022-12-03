@@ -25,6 +25,7 @@ This new GitHub page for PrivacyTools.io will serve now as a community hub where
 - YouTube: https://www.youtube.com/@privacy-tools
 - VK: https://vk.com/privacy.tools
 - Pinterest: https://www.pinterest.com/privacytoolsIO/
+- WhatsApp: https://chat.whatsapp.com/ElAbQPp3AHSKFdOAFu1DUa
 
 # Why is PrivacyTools.io on platforms like Facebook?
 
