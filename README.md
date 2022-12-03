@@ -23,7 +23,7 @@ This new GitHub page for PrivacyTools.io will serve now as a community hub where
 - https://discord.gg/Drr9XbKW9k
 - https://www.pinterest.com/privacytoolsIO/
 
-# Why is PrivacyTools.io on platforms like Facebook, Instagram, etc.?
+# Why is PrivacyTools.io on platforms like Facebook?
 
 For the simple reason that our target audience, privacy unaware people, are using them and therefore a good way to raise awareness for privacy tools and promote open-source software alternatives and reach a large audience. It wouldn't make sense to choose Mastodon as our sole outlet because Mastodon users are general speaking already privacy-aware.
 
