@@ -54,6 +54,11 @@ A list of our most popular content on our privacy website:
 - https://gitlab.com/privacytoolsIO/privacy-tools
 - https://codeberg.org/Privacy-Tools/privacy-guides
 
+# Linktrees
+- https://linktr.ee/privacy.tools
+- https://bio.link/privacytools
+- https://wheretofind.me/@privacytools
+
 ## License
 [WTFPL Public Lincense](https://www.privacytools.io/WTFPLV2.txt) - Version 2, December 2004
 
