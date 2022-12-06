@@ -14,7 +14,6 @@ This new GitHub page for PrivacyTools.io will serve now as a community hub where
 - Privacy News Alerts: https://www.getrevue.co/profile/privacytools
 - Telegram: https://t.me/privacytools_2015
 - Discord: https://discord.gg/Drr9XbKW9k
-- WhatsApp: https://chat.whatsapp.com/ElAbQPp3AHSKFdOAFu1DUa
 - Twitter: https://twitter.com/privacytoolsIO
 - reddit: https://www.reddit.com/r/PrivacySoftware/
 - Mastodon: https://fosstodon.org/@privacytools
