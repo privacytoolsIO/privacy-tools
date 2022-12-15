@@ -11,7 +11,6 @@ This new GitHub page for PrivacyTools.io will serve now as a community hub where
 - Privacy Forum: https://forum.awesomealternatives.org/t/privacy-tools
 - GitHub Discussion: https://github.com/privacytoolsIO/privacy-tools/discussions
 - Privacy Blog: https://www.privacytools.io/guides/ ([RSS](https://www.privacytools.io/guides/rss.xml))
-- Privacy News Alerts: https://www.getrevue.co/profile/privacytools
 - Telegram: https://t.me/privacytools_2015
 - Discord: https://discord.gg/Drr9XbKW9k
 - Twitter: https://twitter.com/privacytoolsIO
