@@ -11,6 +11,7 @@ This new GitHub page for PrivacyTools.io will serve now as a community hub where
 - Privacy Forum: https://forum.awesomealternatives.org/t/privacy-tools
 - GitHub Discussion: https://github.com/privacytoolsIO/privacy-tools/discussions
 - Privacy Blog: https://www.privacytools.io/guides/ ([RSS](https://www.privacytools.io/guides/rss.xml))
+- Newsletter: https://substack.com/profile/115217837-privacytoolsio
 - Telegram: https://t.me/privacytools_2015
 - Discord: https://discord.gg/Drr9XbKW9k
 - Twitter: https://twitter.com/privacytoolsIO
@@ -22,8 +23,10 @@ This new GitHub page for PrivacyTools.io will serve now as a community hub where
 - DEV: https://dev.to/privacytools
 - Medium: https://medium.com/@privacy-tools
 - YouTube: https://www.youtube.com/@privacy-tools
+- Odysee: https://odysee.com/@privacytools:4
 - VK: https://vk.com/privacy.tools
 - Pinterest: https://www.pinterest.com/privacytoolsIO/
+- Librti: https://librti.com/privacy-tools
 
 # Why is PrivacyTools.io on platforms like Facebook?
 
