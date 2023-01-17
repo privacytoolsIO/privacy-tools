@@ -61,6 +61,9 @@ A list of our most popular content on our privacy website:
 - https://bio.link/privacytools
 - https://wheretofind.me/@privacytools
 
+# For Webmasters
+Content creators in the privacy and open-source community are often limited with their advertising options. The [Affiliate Program of AdGuard](https://www.privacytools.io/help/article/4-AdGuard-Affiliate-Partner-Program-Review-50-Commission) might be an option for many. The company [open-sourced all their software on GitHub](https://github.com/AdguardTeam) and are providing fairly priced and non-shady software.
+
 ## License
 [WTFPL Public Lincense](https://www.privacytools.io/WTFPLV2.txt) - Version 2, December 2004
 
